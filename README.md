@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iOS-Developer-KR&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOS-Developer-KR&hide_progress=true" alt="Top Languages" />
+  </a>
+</div>
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
