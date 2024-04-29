@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
 <!--
 **iOS-Developer-KR/iOS-Developer-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
